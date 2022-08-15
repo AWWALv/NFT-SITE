@@ -113,7 +113,7 @@ footer{
   color: #5f29a3;
 }
 
-@media screen and (min-width:300px) and (max-width:700px){
+@media screen and (min-width:200px) and (max-width:700px){
   .container{
     width: 400px;
     margin: 0 auto;
