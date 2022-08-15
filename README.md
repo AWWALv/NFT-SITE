@@ -8,7 +8,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [https://awwalv.github.io/Metric-Converter/]
+- Live Site URL: [https://awwalv.github.io/NFT-SITE/]
 
 ## My process
 
